@@ -310,7 +310,7 @@ jsonschema==3.0.2
 jupyter-client==5.3.1
 jupyter-core==4.4.0
 jupyterhub==0.9.4
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 jupyterlab-server==0.2.0
 Keras==2.3.0
 Keras-Applications==1.0.8
@@ -419,7 +419,7 @@ jsonschema==3.0.2
 jupyter-client==5.3.1
 jupyter-core==4.4.0
 jupyterhub==0.9.4
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 jupyterlab-server==0.2.0
 Keras==2.3.0
 Keras-Applications==1.0.8
